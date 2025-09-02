@@ -31,7 +31,7 @@ header {
 	position: relative;		
 	height: 210px;
 	margin: 2em  0  0 3em;
-	background: #777 url("../img/Stalinallee") no-repeat right; 
+	background: #777 url("../img/Stalinallee.jpg") no-repeat right; 
 	background-size: contain; 			 
 	padding: 0 0 0.5em;
 }
@@ -294,3 +294,4 @@ nav a[aria-current=page]{
   } 
 
 }
+
